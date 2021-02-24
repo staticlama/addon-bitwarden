@@ -23,7 +23,7 @@
 
 Open source password management solution.
 
-## About
+## About DF
 
 Bitwarden is an open-source password manager that can store sensitive
 information such as website credentials in an encrypted vault.
